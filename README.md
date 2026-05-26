@@ -62,5 +62,4 @@ src="https://github-readme-stats-pi-one.vercel.app/api?username=nabilamayasfr&sh
 ###
 <img src="https://raw.githubusercontent.com/nabilamayasfr/nabilamayasfr/output/snake.svg" alt="Snake animation" />
 
-
 ###
