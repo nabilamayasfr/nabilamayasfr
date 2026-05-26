@@ -62,6 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nabilamaya/nabilamaya/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nabilamayasfr/nabilamayasfr/output/snake.svg" alt="Snake animation" />
 
 ###
