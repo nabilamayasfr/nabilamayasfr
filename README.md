@@ -16,8 +16,7 @@
 
 ###
 
-<p align="left">I am a Software Development Student focused on Quality Assurance and software development to ensure reliable, high-quality, and user-friendly products</p>
-
+<p align="left">I am a Web Developer and AI Enthusiast focused on building modern web applications and exploring artificial intelligence to create reliable, efficient, and user-friendly solutions.</p>
 ###
 
 <h2 align="left"> Skills</h2>
@@ -53,17 +52,9 @@
 
 ###
 
-<div align="left">
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats-pi-one.vercel.app/api/top-langs?username=Bagas284&layout=compact&theme=dracula&langs_count=8&hide_progress=false&v=1"
-    height="150"
-    alt="Top Languages"
-  />
-
   <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats-pi-one.vercel.app/api?username=Bagas284&show_icons=true&include_all_commits=true&count_private=false&theme=dracula&v=1"
+    src="https://github-readme-stats-pi-one.vercel.app/api?username=nabilamayasfr&show_icons=true&include_all_commits=true&count_private=false&theme=dracula&v=1"
     height="150"
     alt="GitHub Stats"
   />
@@ -71,6 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nabilamayasfr/nabilamayasfr/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nabilamaya/nabilamaya/output/snake.svg" alt="Snake animation" />
 
 ###
