@@ -51,8 +51,6 @@
 
 
 ###
-
-  <!-- GitHub Stats -->
 <img src="https://raw.githubusercontent.com/nabilamayasfr/nabilamayasfr/output/snake.svg" alt="Snake animation" />
 
 ###
