@@ -51,7 +51,13 @@
 
 
 ###
-<img src="https://raw.githubusercontent.com/nabilamayasfr/nabilamayasfr/output/snake.svg" alt="Snake animation" />
+  <!-- GitHub Stats -->
+  <img
+    src="https://raw.githubusercontent.com/nabilamayasfr/nabilamayasfr/output/snake.svg" alt="Snake animation"
+    height="150"
+    alt="GitHub Stats"
+  />
+</div>
 
 ###
 
