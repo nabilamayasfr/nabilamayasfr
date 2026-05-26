@@ -54,7 +54,7 @@
 
   <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats-pi-one.vercel.app/api?username=nabilamayasfr&show_icons=true&include_all_commits=true&count_private=false&theme=dracula&v=1"
+    src="https://github-readme-stats-pi-one.vercel.app/api?username=nabilamayasfr&show_icons=true&include_all_commits=true&count_private=false&theme=dracula&v=1" alt="GitHub Stats" />
     height="150"
     alt="GitHub Stats"
   />
