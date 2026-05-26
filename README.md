@@ -53,12 +53,7 @@
 ###
 
   <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats-pi-one.vercel.app/api?username=nabilamayasfr&show_icons=true&include_all_commits=true&count_private=false&theme=dracula&v=1" alt="GitHub Stats" />
-    height="150"
-    alt="GitHub Stats"
-  />
-</div>
+<img src="https://raw.githubusercontent.com/nabilamayasfr/nabilamayasfr/output/snake.svg" alt="Snake animation" />
 
 ###
 
