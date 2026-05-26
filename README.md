@@ -1,6 +1,5 @@
 <h1 align="left">Hi there, I'm Nabila Maya Shafira! </h1>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nabila-m-654b12308/" target="_blank">
