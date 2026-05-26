@@ -13,7 +13,6 @@
   </a>
 </div>
 
-###
 
 <p align="left">I am a Web Developer and AI Enthusiast focused on building modern web applications and exploring artificial intelligence to create reliable, efficient, and user-friendly solutions.</p>
 ###
